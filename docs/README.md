@@ -79,4 +79,5 @@ positions](https://coder.com/careers#openings)!
 ## For Teams
 
 We develop [coder/coder](https://cdr.co/coder-github) to help teams to
-adopt remote development.
+adopt remote development.  
+
